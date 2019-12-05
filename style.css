@@ -1,0 +1,77 @@
+body{
+    margin: 30px;
+    /* background:#390000 ; */
+    background: linear-gradient(to left, #390000, #a80e0e);
+
+}
+.conteiner{
+  width: 90%;
+  height: 120px;
+  border-radius: 4px;
+  box-shadow: 0 7px 14px 0 rgba(34, 0, 0, 0.53);
+  background-color: #ffffff;
+  margin: auto;   
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: space-between;
+  text-align:center;
+  margin-bottom: 30px;
+  transition-duration: 500ms;
+  transition-property: margin-right;
+}
+h1{
+    color: #ffffff;
+    font-family: Muli;
+    font-size: 27px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+p{
+    font-family: Muli;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  text-align: left;
+}
+
+h2{
+    font-family: Muli;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  text-align: left;
+}
+#foto {
+    width: 120px;
+    height: 120px;
+   text-align: center;
+    
+}
+
+.parte1{
+  height: 120px;
+}
+.parte2{
+    width: 700px;
+}
+button{
+    background-color: #980c0c;
+    border:none;
+    width: 120px;
+    height: 120px;
+    color: #ffffff;
+    font-size: 25px;
+}
